@@ -27,4 +27,9 @@ public class Solution {
 
         return answer;
     }
+
+    // base function without logic to avoid compile errors
+    int guess(int num) {
+        return 0;
+    }
 }

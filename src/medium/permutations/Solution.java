@@ -3,7 +3,7 @@ package medium.permutations;
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+public class Solution {
     List<List<Integer>> holder = new ArrayList<>();
 
     public List<List<Integer>> permute(int[] nums) {
