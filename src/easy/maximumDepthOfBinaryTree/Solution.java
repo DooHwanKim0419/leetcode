@@ -1,5 +1,7 @@
 package easy.maximumDepthOfBinaryTree;
 
+import util.TreeNode;
+
 public class Solution {
     public int maxDepth(TreeNode root) {
         if (root == null) {
